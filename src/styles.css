@@ -18,7 +18,6 @@ div#main {
   display: flex;
   flex-direction: column;
   width: 100vw;
-  color: white;
 }
 
 section {
